@@ -15,10 +15,11 @@
     --dark:#1e1c2a;
     --reh: #1e1c2a;
     --shadow: #12d71558;
+    --bg: #cece;
 }
 body{
     color: var(--dark);
-    background: var(--white);
+    background: var(--bg);
 }
 .navigation{
     display: flex;
